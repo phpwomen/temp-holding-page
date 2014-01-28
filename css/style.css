@@ -326,7 +326,7 @@
 			top: 0;
 			border-radius: 6px;
 			overflow: hidden;
-			background: #444;
+			background: #92c23d;
 			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
 			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
 			background-image: -o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
@@ -352,7 +352,7 @@
 				background: url('images/bg.png');
 			}
 
-			ul.social li.twitter:hover				{ background-color: #2DAAE4; }
+		/*	ul.social li.twitter:hover				{ background-color: #2DAAE4; }
 			ul.social li.facebook:hover				{ background-color: #3C5A98; }
 			ul.social li.dribbble:hover				{ background-color: #C4376B; }
 			ul.social li.linkedin:hover				{ background-color: #006599; }
@@ -367,10 +367,11 @@
 			ul.social li.youtube:hover				{ background-color: #BF2E25; }
 			ul.social li.blogger:hover				{ background-color: #FF6501; }
 			ul.social li.flickr:hover				{ background-color: #0062DB; }
-			ul.social li.vimeo:hover				{ background-color: #4C8AB0; }
+			ul.social li.vimeo:hover				{ background-color: #4C8AB0; }*/
 
 			ul.social li:hover
 			{
+				background-color: #f86f05;
 				top: -5px;
 			}
 
@@ -386,7 +387,7 @@
 				width: 48px;
 				height: 48px;
 				outline: 0;
-				color: #2E2E2E !important;
+				color: #fff !important;
 				line-height: 48px;
 				font-size: 24px;
 				text-shadow: 1px 1px 0px rgba(255,255,255,0.1);
@@ -433,7 +434,7 @@
 		.fa.featured
 		{
 			font-size: 5em;
-			color: #EA8A95;
+			color: #f86f05;
 			display: block;
 			margin: 0 0 0.25em 0;
 			cursor: default;

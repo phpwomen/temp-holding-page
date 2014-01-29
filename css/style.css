@@ -8,6 +8,15 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/**
+	PHP WOMEN colors:
+	$purple : #412041;
+	$green	: #92c23d;
+	$orange : #f86f05;
+ */
+
+
+
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
@@ -124,7 +133,8 @@
 		form textarea:focus
 		{
 			background: #fff;
-			box-shadow: inset 0px 2px 5px 0px rgba(0,0,0,0.05), 0px 1px 0px 0px rgba(255,255,255,0.025), inset 0px 0px 2px 1px #74CAEE;
+			/*box-shadow: inset 0px 2px 5px 0px rgba(0,0,0,0.05), 0px 1px 0px 0px rgba(255,255,255,0.025), inset 0px 0px 2px 1px #f86f05;*/
+			border: 2px solid #f86f05;
 		}
 
 		form textarea
@@ -235,7 +245,8 @@
 			width: auto;
 		}
 	
-	.button
+	.button,
+	.button:visited
 	{
 		position: relative;
 		display: inline-block;
@@ -268,12 +279,6 @@
 			height: 100%;
 			background: url('images/bg.png');
 		}
-
-		.button:hover
-		{
-			background-color: #f86f05;
-			color: #fff !important;
-		}
 		
 		.button:active
 		{
@@ -292,22 +297,18 @@
 			background-image: linear-gradient(top, rgba(50,50,50,0), rgba(45,45,45,1));
 			box-shadow: inset 0px 0px 0px 1px #242424, inset 0px 2px 1px 0px rgba(255,255,255,0.2);
 		}
+		
+		.button:hover,
+		.button:focus,
+		.button-alt:hover,
+		.button-alt:focus,
+		.button-alt:active
+		{
+			background-color: #f86f05;
+			background-image: none;
+			color: #fff !important;
+		}
 
-			.button-alt:hover
-			{
-				background-color: #444;
-			}
-			
-			.button-alt:active
-			{
-				background-image: -moz-linear-gradient(top, rgba(45,45,45,1), rgba(50,50,50,0));
-				background-image: -webkit-linear-gradient(top, rgba(45,45,45,1), rgba(50,50,50,0));
-				background-image: -o-linear-gradient(top, rgba(45,45,45,1), rgba(50,50,50,0));
-				background-image: -ms-linear-gradient(top, rgba(45,45,45,1), rgba(50,50,50,0));
-				background-image: linear-gradient(top, rgba(45,45,45,1), rgba(50,50,50,0));
-				box-shadow: inset 0px 0px 0px 1px #242424, inset 0px -2px 1px 0px rgba(255,255,255,0.2);
-			}
-	
 		.button-big
 		{
 		}

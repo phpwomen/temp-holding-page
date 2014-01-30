@@ -1035,6 +1035,7 @@
 
 	#contact .box{
 		background: transparent;
+		box-shadow: none;
 		padding: 0;
 	}
 	.usergroups h3,
@@ -1046,6 +1047,8 @@
 		background: #f86f05;
 		border-radius: 50%;
 		margin: 0 auto;
+		left: 0;
+		top: 0;
 		padding: 2em;
 		text-align: center;
 		width: 50%;

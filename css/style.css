@@ -1013,3 +1013,43 @@
 		margin-left: auto;
 		margin-right: auto;
 	}
+
+	.usergroups .box{
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+
+	.usergroups {
+		border-top: solid 1px rgba(75, 69, 69, 0.2);
+		margin-top: 3em;
+	}
+
+	.usergroups .box .image-full {
+		margin: 0;
+		left: 0;
+		top: 0;
+		padding: 1em;
+		max-width: 181px;
+		max-height: 181px;
+	}
+
+	#contact .box{
+		background: transparent;
+		padding: 0;
+	}
+	.usergroups h3,
+	#contact h3{
+		margin-top: 2em;
+	}
+
+	#contact .box .image-full{
+		background: #f86f05;
+		border-radius: 50%;
+		margin: 0 auto;
+		padding: 2em;
+		text-align: center;
+		width: 50%;
+	}
+	#contact .box .image-full:hover{
+		background: #92c23d;
+	}

@@ -1,5 +1,13 @@
-$(document).ready(function() {
-        var height = Math.max($(".box-style1").height());
-        $(".box-style1").height(height);
-        $(".box-style1").height(height);
-});
+/*$(document).ready(function() {
+		var boxHeight = 0;
+		$("#plans-for-2014 .box-style1").each(function(){
+			var currHeight = $(this).height();
+			if(currHeight > boxHeight){
+				boxHeight = currHeight;
+			}
+			console.log(boxHeight);
+		});
+
+		$("#plans-for-2014 .box-style1").height(boxHeight);
+        
+});*/

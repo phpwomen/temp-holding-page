@@ -1024,6 +1024,7 @@
 		margin-top: 3em;
 	}
 
+
 	.usergroups .box .image-full {
 		margin: 0 auto;
 		left: 0;
@@ -1031,6 +1032,9 @@
 		padding: 1em;
 		max-width: 181px;
 		max-height: 181px;
+	}
+	.planbox{
+		min-height: 342px;
 	}
 
 	#contact .box{

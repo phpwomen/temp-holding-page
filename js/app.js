@@ -5,9 +5,7 @@ $(document).ready(function() {
 			if(currHeight > boxHeight){
 				boxHeight = currHeight;
 			}
-			console.log(boxHeight);
 		});
 
-		$(".planbox").height(boxHeight);
-        
+		$('.planbox').css('min-height', '' + boxheight + 'px');     
 });

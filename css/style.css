@@ -1025,7 +1025,7 @@
 	}
 
 	.usergroups .box .image-full {
-		margin: 0;
+		margin: 0 auto;
 		left: 0;
 		top: 0;
 		padding: 1em;

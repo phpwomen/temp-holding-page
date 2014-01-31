@@ -7,5 +7,5 @@ $(document).ready(function() {
 			}
 		});
 
-		$('.planbox').css('min-height', '' + boxheight + 'px');     
+		$('.planbox').css('min-height', '' + boxHeight + 'px');     
 });

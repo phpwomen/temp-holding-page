@@ -1060,3 +1060,6 @@
 	#contact .box .image-full:hover{
 		background: #92c23d;
 	}
+	#why-we-exsist p{
+		text-align: left;
+	}

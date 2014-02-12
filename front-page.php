@@ -235,6 +235,16 @@
 									</p>
 								</article>
 							</div>
+							<div class="3u">
+								<article class="box box-style2">
+									<a href="http://www.meetup.com/dallasphp/" class="image image-full"><img src="holdingpage/images/usergroups/dallasphp.png" alt="Dallas PHP" /></a>
+									<p>
+										Dallas, TX, USA
+										<br>
+										2<sup>nd</sup> Tuesday / month
+									</p>
+								</article>
+							</div>
 						</div>
 						</div>
 					</div>

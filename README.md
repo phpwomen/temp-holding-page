@@ -1,5 +1,5 @@
 Current PHP Women one pager. 
 
-*Looking to add a UG?*
+**Looking to add a UG?**
 
 We love a pull request. :) 

@@ -13,17 +13,17 @@
 		<!-- <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'> -->
 		<link rel="icon" type="image/png" href="favicon.png" />
 		<!-- this js needs to be here as it's actuall CSS in disguise!! -->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/config.js"></script>
-		<script src="js/skel.min.js"></script>
+		<script src="holdingpage/js/jquery.min.js"></script>
+		<script src="holdingpage/js/config.js"></script>
+		<script src="holdingpage/js/skel.min.js"></script>
 		<noscript>
-			<link rel="stylesheet" href="css/skel-noscript.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-desktop.css" />
+			<link rel="stylesheet" href="holdingpage/css/skel-noscript.css" />
+			<link rel="stylesheet" href="holdingpage/css/style.css" />
+			<link rel="stylesheet" href="holdingpage/css/style-desktop.css" />
 		</noscript>
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
-		<!--[if lte IE 7]><link rel="stylesheet" href="css/ie7.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="holdingpage/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><script src="holdingpage/js/html5shiv.js"></script><link rel="stylesheet" href="holdingpage/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 7]><link rel="stylesheet" href="holdingpage/css/ie7.css" /><![endif]-->
 	</head>
 	<body>
 
@@ -43,7 +43,7 @@
 					<div class="row">
 						<div class="12u">
 							<header>
-								<h1><img src="images/php-logo-white-inversed.png" alt="PHP Women"></h1>
+								<h1><img src="holdingpage/images/php-logo-white-inversed.png" alt="PHP Women"></h1>
 							</header>
 							<p>An <strong>inclusive &amp; global</strong> network providing support within the PHP community.</p>
 							<a href="#what-we-do" class="button button-big">Learn about what we do</a>
@@ -51,59 +51,7 @@
 					</div>
 				</article>
 			</div>
-			<div class="wrapper wrapper-style3">
-				<article id="why-we-exsist">
-					<header>
-						<h2>Why we exsist</h2>
-						<span><a href="https://www.dropbox.com/s/bb96sg5imp7f0ha/aboutPHPwomen.txt">original about us text from old site</a></span>
-					</header>
-					<div class="container">
-						<div class="row">
-							<div class="12u">
-								<section class="box box1">
-									<h3>Our Mission</h3>
 
-									<p>PHPWomen is a global support network, standing for inclusion and equality. We want to enable more people to become great professionals whilst working in healthy environments.</p>
-
-									<h3>Why the female slant?</h3>
-									<p>As much as we wish it was not true, women are a minority in the majority of tech fields.</p>
-
-									<p>In 2006, Ligaya Turmelle and Elizabeth Naramore noticed that there were few female developers in the PHP world and the ones they knew about were scattered all over the world. They rarely saw women at various tech events and so decided to send a call for the women of PHP to "stand up and be counted". From the inital call-out, we have since grown into an active community that now concentrates on supporting the PHP community in becoming a inclusive community.</p>
-
-									<p>We continually call for women to stand up and be counted in order to gain a greater insight to the amount of women in the industry. We also have moved forward and now also ask everyone to help and enable women in the same geographic location to meet up. We do this by championing healthy event and working enviorments</p>
-
-									<p>In the long run, we hope there will be a day where there are enough women in the tech industry that this group is no longer a need.</p>
-
-
-									<p>In order to do so, we work in 3 main initiatives:</p>
-									<ul>
-										<li>
-											<h3>Communication and Support</h3>
-
-											<p>Sometimes it's not so easy to be a developer, specially when you are part of a minority group - you tend to feel alone and isolated. We also know that not all companies have a healthy, friendly environment - and this is not exclusively from the IT area.</p>
-
-											<p>We provide communication and support through our IRC channel, and this initiative had helped many developers, not only women, to get better at their work and stand for better, incusive working environments.</p>
-										</li>
-										<li>
-										<h3>Conferences</h3>
-
-											<p>We want to see more women joining and speaking at PHP conferences - and we have so many great ones! The experience of a conference is something you won't forget, because it's not only about learning, its also about networking, getting in touch with people who work with the same things you do.</p>
-										</li>
-										<li>
-											<h3>Community</h3>
-											<p>The PHP community is really awesome, and we want to bring more women to be actively part of it.</p>
-										</li>
-									</ul>
-								</section>
-							</div>
-						</div>
-					</div>
-					<footer>
-						<p>Together we can make 2014 a phenomenal year for PHPWomen.</p>
-						<!-- <a href="#portfolio" class="button button-big">Find out how we want to be there for you</a> -->
-					</footer>
-				</article>
-			</div>
 		<!-- Work -->
 			<div class="wrapper wrapper-style2">
 				<article id="what-we-do">
@@ -143,7 +91,7 @@
 				</article>
 			</div>
 
-		<!-- Portfolio -->
+<!-- EVENTS -->
 			<div class="wrapper wrapper-style3">
 				<article id="find-us">
 					<header>
@@ -151,6 +99,7 @@
 						<span>Make sure you come and say "Hi"</span>
 
 					</header>
+<!-- Conferences -->
 					<div class="container">
 						<div class="row">
 							<div class="12u">
@@ -160,7 +109,7 @@
 						<div class="row">
 							<div class="4u">
 								<article class="box box-style2">
-									<a href="http://conference.phpbenelux.eu/2014/" class="image image-full"><img src="images/conferences/2014/benelux.png" alt="" /></a>
+									<a href="http://conference.phpbenelux.eu/2014/" class="image image-full"><img src="holdingpage/images/conferences/2014/benelux.png" alt="" /></a>
 									<h3><a href="http://conference.phpbenelux.eu/2014/">PHPBenelux 2014</a></h3>
 									<p>
 										Antwerp, Belgium
@@ -171,7 +120,7 @@
 							</div>
 							<div class="4u">
 								<article class="box box-style2">
-									<a href="http://2014.sunshinephp.com" class="image image-full"><img src="images/conferences/2014/sunshine.png" alt="" /></a>
+									<a href="http://2014.sunshinephp.com" class="image image-full"><img src="holdingpage/images/conferences/2014/sunshine.png" alt="" /></a>
 									<h3><a href="http://2014.sunshinephp.com">Sunshine PHP 2014</a></h3>
 									<p>
 										Miami, Florida, USA
@@ -182,7 +131,7 @@
 							</div>
 							<div class="4u">
 								<article class="box box-style2">
-									<a href="http://phpconference.co.uk" class="image image-full"><img src="images/conferences/2014/uk.png" alt="" /></a>
+									<a href="http://phpconference.co.uk" class="image image-full"><img src="holdingpage/images/conferences/2014/uk.png" alt="" /></a>
 									<h3><a href="http://phpconference.co.uk">PHPUK 2014</a></h3>
 									<p>
 										London, England
@@ -195,7 +144,7 @@
 						<div class="row">
 							<div class="4u">
 								<article class="box box-style2">
-									<a href="http://conference.phpne.org.uk/" class="image image-full"><img src="images/conferences/2014/phpne.png" alt="" /></a>
+									<a href="http://conference.phpne.org.uk/" class="image image-full"><img src="holdingpage/images/conferences/2014/phpne.png" alt="" /></a>
 									<h3><a href="http://conference.phpne.org.uk/">PHPNE 2014</a></h3>
 									<p>
 										Newcastle upon Tyne, UK
@@ -206,7 +155,7 @@
 							</div>
 							<div class="4u">
 								<article class="box box-style2">
-									<a href="http://tek.phparch.com" class="image image-full"><img src="images/conferences/2014/tek.png" alt="" /></a>
+									<a href="http://tek.phparch.com" class="image image-full"><img src="holdingpage/images/conferences/2014/tek.png" alt="" /></a>
 									<h3><a href="http://tek.phparch.com">php[tek] 2014</a></h3>
 									<p>
 										Chicago, Illinois, USA
@@ -217,7 +166,7 @@
 							</div>
 							<div class="4u">
 								<article class="box box-style2">
-									<a href="http://phpconference.nl" class="image image-full"><img src="images/conferences/2014/dpc.png" alt="Ducth PHP Conference" /></a>
+									<a href="http://phpconference.nl" class="image image-full"><img src="holdingpage/images/conferences/2014/dpc.png" alt="Ducth PHP Conference" /></a>
 									<h3><a href="http://phpconference.nl">DPC 2014</a></h3>
 									<p>
 										Amsterdam, Netherlands
@@ -230,7 +179,7 @@
 						<div class="row">
 							<div class="4u">
 								<article class="box box-style2">
-									<a href="http://conference.phpnw.org.uk/phpnw14/" class="image image-full"><img src="images/conferences/2014/nw.png" alt="" /></a>
+									<a href="http://conference.phpnw.org.uk/phpnw14/" class="image image-full"><img src="holdingpage/images/conferences/2014/nw.png" alt="" /></a>
 									<h3><a href="http://conference.phpnw.org.uk/phpnw14/">PHPNW 2014</a></h3>
 									<p>
 										Manchester, UK
@@ -239,7 +188,8 @@
 									</p>
 								</article>
 							</div>
-						</div>
+						</div>						
+<!-- User Groups -->
 						<div class="usergroups">
 						<div class="row">
 							<div class="12u">
@@ -249,7 +199,7 @@
 						<div class="row">
 							<div class="3u">
 								<article class="box box-style2">
-									<a href="http://phphants.co.uk" class="image image-full"><img src="images/usergroups/phphants.png" alt="PHP Hampshire" /></a>
+									<a href="http://phphants.co.uk" class="image image-full"><img src="holdingpage/images/usergroups/phphants.png" alt="PHP Hampshire" /></a>
 									<p>
 										Portsmouth, UK
 										<br />
@@ -259,7 +209,7 @@
 							</div>
 							<div class="3u">
 								<article class="box box-style2">
-									<a href="http://phpnw.org.uk" class="image image-full"><img src="images/usergroups/phpnw.png" alt="PHP North West" /></a>
+									<a href="http://phpnw.org.uk" class="image image-full"><img src="holdingpage/images/usergroups/phpnw.png" alt="PHP North West" /></a>
 									<p>
 										Manchester, UK
 										<br>
@@ -269,7 +219,7 @@
 							</div>
 							<div class="3u">
 								<article class="box box-style2">
-									<a href="http://amsterdamphp.nl" class="image image-full"><img src="images/usergroups/amsterdamphp.png" alt="Amsterdam PHP" /></a>
+									<a href="http://amsterdamphp.nl" class="image image-full"><img src="holdingpage/images/usergroups/amsterdamphp.png" alt="Amsterdam PHP" /></a>
 									<p>
 										Amsterdam, Netherlands
 										<br>
@@ -279,7 +229,7 @@
 							</div>
 							<div class="3u">
 								<article class="box box-style2">
-									<a href="http://phpbenelux.nl" class="image image-full"><img src="images/usergroups/phpbnl.png" alt="PHP Benelux" /></a>
+									<a href="http://phpbenelux.nl" class="image image-full"><img src="holdingpage/images/usergroups/phpbnl.png" alt="PHP Benelux" /></a>
 									<p>
 										Roving around Belgium, Netherlands &amp; Luxumburg
 									</p>
@@ -294,18 +244,17 @@
 					</footer>
 				</article>
 			</div>
-			<!-- Plans for 2014-->
+<!-- Plans for 2014-->
 			<div class="wrapper wrapper-style2">
 				<article id="plans-for-2014">
 					<header>
 						<h2>Plans for 2014</h2>
-						<span>To further support &amp; mentor women worldwide.</span>
+						<psna>To further support &amp; mentor women worldwide.</span>
 					</header>
 					<div class="container">
 						<div class="row">
 							<div class="6u">
 								<section class="box box-style1 planbox">
-									<!-- <span class="fa featured fa-thumbs-o-up"></span> -->
 									<h3>Purple PHPWomen ElePHPants</h3>
 									<p>One of our exciting plans for 2014 is the creation of PHPWomen's very own Purple ElePHPant!</p>
 									<p>This is well under way, so keep your eyes peeled to find out more about it in the next few months.</p>
@@ -313,7 +262,6 @@
 							</div>
 							<div class="6u">
 								<section class="box box-style1 planbox">
-									<!-- <span class="fa featured fa-comments-o"></span> -->
 									<h3>The Website</h3>
 									<p>We've made the decision to build our website using Symfony Framework 2, making it easier for anyone to join the project. With new features planned, the site will help PHPWomen connect and collaborate with the community around the world.</p>
 									<p>See progress and get stuck in: <a href="https://github.com/erikaheidi/phpwomen">github</a></p>
@@ -324,7 +272,6 @@
 						<div class="row">	
 							<div class="6u">
 								<section class="box box-style1 planbox">
-									<!-- <span class="fa featured fa-thumbs-o-up"></span> -->
 									<h3>Education</h3>
 									<p>For 2014 we're looking to bring new education initiatives to the community.</p>
 									<p>By standing on the shoulders of the amazing <a href="http://railsbridge.org">RailsBridge</a> efforts, we're working to bring our very own “PHPBridge” to fruition this year, starting with introductory material and moving on from there.</p>
@@ -332,7 +279,6 @@
 							</div>
 							<div class="6u">
 								<section class="box box-style1 planbox">
-									<!-- <span class="fa featured fa-file-o"></span> -->
 									<h3>Events</h3>
 									<p>This year we are participating in numerous conferences and user groups, both in Europe and the US. As part of this, we hope to help more women to attend and speak.</p><p>We are actively looking for sponsors to aid us in these goals. If you run a conference or user group and would like to collaborate, please let us know.</p>
 								</section>
@@ -342,7 +288,6 @@
 							<div class="6u">
 
 								<section class="box box-style1 planbox">
-									<!-- <span class="fa featured fa-thumbs-o-up"></span> -->
 									<h3>PHPWomen in the US</h3>
 									<p>We are excited to announce that starting in 2014, <a href="https://twitter.com/dshafik">Davey Shafik</a> will lead our US chapter, allowing PHPWomen to be more active globally.</p><p>Working together with the crew in Europe, he will be helping with our education and events initiatives.</p>
 								</section>
@@ -350,7 +295,6 @@
 							</div>
 							<div class="6u">
 								<section class="box box-style1 planbox">
-									<!-- <span class="fa featured fa-thumbs-o-up"></span> -->
 									<h3>Helping Us, Help You</h3>
 									<p>PHPWomen exists for its members, and we are always open to new ideas and suggestions.</p>
 
@@ -361,7 +305,6 @@
 					</div>
 					<footer>
 						<p>Together we can make 2014 a phenomenal year for PHPWomen.</p>
-						<!-- <a href="#portfolio" class="button button-big">Find out how we want to be there for you</a> -->
 					</footer>
 				</article>
 			</div>
@@ -380,56 +323,24 @@
 								<ul class="row">
 									<li class="4u">
 										<div class="box box-style2">
-											<a href="http://twitter.com/phpwomen" class="image image-full"><img src="images/twitter.png" alt="Tweet us" /></a>
+											<a href="http://twitter.com/phpwomen" class="image image-full"><img src="holdingpage/images/twitter.png" alt="Tweet us" /></a>
 											<h3>@phpWomen</h3>
 										</div>
 									</li>
 									<li class="4u">
 										<div class="box box-style2">
-											<a href="mailto:hello@phpwomen.org" class="image image-full"><img src="images/email.png" alt="Email us" /></a>
+											<a href="mailto:hello@phpwomen.org" class="image image-full"><img src="holdingpage/images/email.png" alt="Email us" /></a>
 											<h3>hello@phpwomen.org</h3>
 										</div>
 									</li>
 									<li class="4u">
 										<div class="box box-style2">
-											<a href="http://webchat.freenode.net?channels=%23phpwomen" class="image image-full"><img src="images/irc.png" alt="IRC" /></a>
+											<a href="http://webchat.freenode.net?channels=%23phpwomen" class="image image-full"><img src="holdingpage/images/irc.png" alt="IRC" /></a>
 											<h3>#phpWomen</h3>
 											<span>on Freenode</span>
 										</div>
 									</li>
 								</ul>
-
-
-								<!-- <form method="post" action="#">
-									<div>
-										<div class="row half">
-											<div class="6u">
-												<input type="text" name="name" id="name" placeholder="Name" />
-											</div>
-											<div class="6u">
-												<input type="text" name="email" id="email" placeholder="Email" />
-											</div>
-										</div>
-										<div class="row half">
-											<div class="12u">
-												<input type="text" name="subject" id="subject" placeholder="Subject" />
-											</div>
-										</div>
-										<div class="row half">
-											<div class="12u">
-												<textarea name="message" id="message" placeholder="Message"></textarea>
-											</div>
-										</div>
-										<div class="row">
-											<div class="12u">
-												<a href="#" class="button form-button-submit">Send Message</a>
-												<a href="#" class="button button-alt form-button-reset">Clear Form</a>
-											</div>
-										</div>
-									</div>
-								</form> -->
-						<!-- 	</div>
-						</div> -->
 					</div>
 					<footer>
 						<ul id="copyright">
@@ -439,6 +350,6 @@
 					</footer>
 				</article>
 			</div>
-			<script src="js/app.js"></script>
+			<script src="holdingpage/js/app.js"></script>
 	</body>
 </html>

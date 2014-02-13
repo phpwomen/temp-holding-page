@@ -247,7 +247,7 @@
 							</div>
                             <div class="3u">
                                 <article class="box box-style2">
-                                    <a href="http://www.memphisphp.org/" class="image image-full"><img src="holdingpage/images/usergroups/memphisphp.png" alt="Dallas PHP" /></a>
+                                    <a href="http://www.memphisphp.org/" class="image image-full"><img src="holdingpage/images/usergroups/memphisphp.png" alt="Memphis PHP" /></a>
                                     <p>
                                         Memphis, TN, USA
                                         <br>

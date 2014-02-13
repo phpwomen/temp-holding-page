@@ -266,8 +266,8 @@
 							<div class="6u">
 								<section class="box box-style1 planbox">
 									<h3>Purple PHPWomen ElePHPants</h3>
-									<p>One of our exciting plans for 2014 is the creation of PHPWomen's very own Purple ElePHPant!</p>
-									<p>This is well under way, so keep your eyes peeled to find out more about it in the next few months.</p>
+									<p>The purple ElePHPant is coming, get yours and help PHPWomen in our mission to support women and others in the PHP community!</p>
+									<p><a href="http://phpwomen.org/elephpant">http://phpwomen.org/elephpant/a></p>
 								</section>
 							</div>
 							<div class="6u">

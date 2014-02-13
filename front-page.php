@@ -267,7 +267,7 @@
 								<section class="box box-style1 planbox">
 									<h3>Purple PHPWomen ElePHPants</h3>
 									<p>The purple ElePHPant is coming, get yours and help PHPWomen in our mission to support women and others in the PHP community!</p>
-									<p><a href="http://phpwomen.org/elephpant">http://phpwomen.org/elephpant/a></p>
+									<p><a href="http://phpwomen.org/elephpant">http://phpwomen.org/elephpant</a></p>
 								</section>
 							</div>
 							<div class="6u">

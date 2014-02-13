@@ -245,6 +245,16 @@
 									</p>
 								</article>
 							</div>
+                            <div class="3u">
+                                <article class="box box-style2">
+                                    <a href="http://www.memphisphp.org/" class="image image-full"><img src="holdingpage/images/usergroups/memphisphp.png" alt="Dallas PHP" /></a>
+                                    <p>
+                                        Memphis, TN, USA
+                                        <br>
+                                        4<sup>th</sup> Tuesday / month
+                                    </p>
+                                </article>
+                            </div>
 						</div>
 						</div>
 					</div>
@@ -259,7 +269,7 @@
 				<article id="plans-for-2014">
 					<header>
 						<h2>Plans for 2014</h2>
-						<psna>To further support &amp; mentor women worldwide.</span>
+						<span>To further support &amp; mentor women worldwide.</span>
 					</header>
 					<div class="container">
 						<div class="row">

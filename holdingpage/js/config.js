@@ -6,7 +6,7 @@
 
 window._skel_config = {
 	preset: 'standard',
-	prefix: 'css/style',
+	prefix: 'holdingpage/css/style',
 	resetCSS: true,
 	breakpoints: {
 		'desktop': {

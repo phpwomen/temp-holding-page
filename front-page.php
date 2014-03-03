@@ -255,6 +255,18 @@
                                     </p>
                                 </article>
                             </div>
+
+                            <div class="3u">
+                            	<article class="box box-style2">
+									<a href="http://phpem.info" class="image image-full"><img src="holdingpage/images/usergroups/phpem.png" alt="PHP EM" /></a>
+									<p>
+										Leicester, UK
+										<br>
+										1<sup>st</sup> Thursday / month
+									</p>
+								</article>
+							</div>
+							
 						</div>
 						</div>
 					</div>

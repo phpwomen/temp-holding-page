@@ -188,14 +188,14 @@
 									</p>
 								</article>
 							</div>
-						</div>						
+						</div>
 <!-- User Groups -->
 						<div class="usergroups">
 						<div class="row">
 							<div class="12u">
-								<h3>User Groups</h3>
+								<h3>User Groups We Attend</h3>
 							</div>
-						</div>			
+						</div>
 						<div class="row">
 							<div class="3u">
 								<article class="box box-style2">
@@ -245,19 +245,19 @@
 									</p>
 								</article>
 							</div>
-                            <div class="3u">
-                                <article class="box box-style2">
-                                    <a href="http://www.memphisphp.org/" class="image image-full"><img src="holdingpage/images/usergroups/memphisphp.png" alt="Memphis PHP" /></a>
-                                    <p>
-                                        Memphis, TN, USA
-                                        <br>
-                                        4<sup>th</sup> Tuesday / month
-                                    </p>
-                                </article>
-                            </div>
+							<div class="3u">
+								<article class="box box-style2">
+									<a href="http://www.memphisphp.org/" class="image image-full"><img src="holdingpage/images/usergroups/memphisphp.png" alt="Memphis PHP" /></a>
+									<p>
+										Memphis, TN, USA
+										<br>
+										4<sup>th</sup> Tuesday / month
+									</p>
+								</article>
+							</div>
 
-                            <div class="3u">
-                            	<article class="box box-style2">
+							<div class="3u">
+								<article class="box box-style2">
 									<a href="http://phpem.info" class="image image-full"><img src="holdingpage/images/usergroups/phpem.png" alt="PHP EM" /></a>
 									<p>
 										Leicester, UK
@@ -267,8 +267,8 @@
 								</article>
 							</div>
 
-                            <div class="3u">
-                            	<article class="box box-style2">
+							<div class="3u">
+								<article class="box box-style2">
 									<a href="http://www.meetup.com/PHPAmersfoort/" class="image image-full"><img src="holdingpage/images/usergroups/phpamersfoort.jpeg" alt="PHPAmersfoort" /></a>
 									<p>
 										Amersfoort, NL
@@ -278,7 +278,18 @@
 								</article>
 							</div>
 
-							
+							<div class="3u">
+								<article class="box box-style2">
+									<a href="http://www.meetup.com/PHPAmersfoort/" class="image image-full"><img src="holdingpage/images/usergroups/phpne.gif" alt="PHP North East" /></a>
+									<p>
+										Newcastle Upon Tyne, UK
+										<br>
+										3<sup>nd</sup> Tuesday / month
+									</p>
+								</article>
+							</div>
+
+
 						</div>
 						</div>
 					</div>
@@ -312,8 +323,8 @@
 								</section>
 							</div>
 						</div>
-						
-						<div class="row">	
+
+						<div class="row">
 							<div class="6u">
 								<section class="box box-style1 planbox">
 									<h3>Education</h3>
@@ -335,7 +346,7 @@
 									<h3>PHPWomen in the US</h3>
 									<p>We are excited to announce that starting in 2014, <a href="https://twitter.com/dshafik">Davey Shafik</a> will lead our US chapter, allowing PHPWomen to be more active globally.</p><p>Working together with the crew in Europe, he will be helping with our education and events initiatives.</p>
 								</section>
-								
+
 							</div>
 							<div class="6u">
 								<section class="box box-style1 planbox">

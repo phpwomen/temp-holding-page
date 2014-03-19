@@ -280,7 +280,7 @@
 
 							<div class="3u">
 								<article class="box box-style2">
-									<a href="http://www.meetup.com/PHPAmersfoort/" class="image image-full"><img src="holdingpage/images/usergroups/phpne.gif" alt="PHP North East" /></a>
+									<a href="http://phpne.org.uk/" class="image image-full"><img src="holdingpage/images/usergroups/phpne.gif" alt="PHP North East" /></a>
 									<p>
 										Newcastle Upon Tyne, UK
 										<br>

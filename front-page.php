@@ -188,14 +188,14 @@
 									</p>
 								</article>
 							</div>
-						</div>						
+						</div>
 <!-- User Groups -->
 						<div class="usergroups">
 						<div class="row">
 							<div class="12u">
-								<h3>User Groups</h3>
+								<h3>User Groups We Attend</h3>
 							</div>
-						</div>			
+						</div>
 						<div class="row">
 							<div class="3u">
 								<article class="box box-style2">

@@ -293,7 +293,16 @@
 									</p>
 								</article>
 							</div>
-						</div>
+							<div class="3u">
+								<article class="box box-style2">
+									<a href="http://www.meetup.com/trianglephp/" class="image image-full"><img src="holdingpage/images/usergroups/trianglephp.png" alt="Triangle PHP" /></a>
+									<p>
+										Raleigh, NC, USA
+										<br>
+										3<sup>rd</sup> Thursday / month
+									</p>
+								</article>
+							</div>						</div>
 					</div>
 				</div>
 				<footer>

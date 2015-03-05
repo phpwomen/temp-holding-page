@@ -293,6 +293,16 @@
 									</p>
 								</article>
 							</div>
+                            <div class="3u">
+                                <article class="box box-style2">
+                                    <a href="http://phpsw.org.uk/" class="image image-full"><img src="holdingpage/images/usergroups/phpsw.png" alt="PHP South West" /></a>
+                                    <p>
+                                        Bristol, UK
+                                        <br>
+                                        2<sup>nd</sup> Wednesday / month
+                                    </p>
+                                </article>
+                            </div>
 						</div>
 					</div>
 				</div>

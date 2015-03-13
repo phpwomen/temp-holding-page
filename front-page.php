@@ -303,6 +303,15 @@
                                     </p>
                                 </article>
                             </div>
+							<div class="3u">
+								<article class="box box-style2">
+									<a href="http://www.madisonphp.com/" class="image image-full"><img src="holdingpage/images/usergroups/madisonphp.png" alt="Madison PHP" /></a>
+									<p>
+										Madison, WI, USA
+										<br>
+									</p>
+								</article>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -408,7 +417,7 @@
 				</div>
 				<footer>
 					<ul id="copyright">
-						<li>&copy; 2014 PHPWomen</li>
+						<li>&copy; <?php echo date('Y'); ?> PHPWomen</li>
 						<li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
 					</ul>
 				</footer>

@@ -249,7 +249,7 @@
 									<p>
 										Newcastle Upon Tyne, UK
 										<br>
-										3<sup>nd</sup> Tuesday / month
+										3<sup>rd</sup> Tuesday / month
 									</p>
 								</article>
 							</div>

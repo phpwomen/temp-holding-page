@@ -427,7 +427,7 @@
 				</div>
 				<footer>
 					<ul id="copyright">
-						<li>&copy; <?php echo date('Y'); ?> PHPWomen</li>
+						<li>&copy; <?php echo @date('Y'); ?> PHPWomen</li>
 						<li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
 					</ul>
 				</footer>

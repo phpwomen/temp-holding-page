@@ -85,7 +85,7 @@
 				</div>
 				<footer>
 					<p>Want to know what we have planned?</p>
-					<a href="#plans-for-2014" class="button button-big">Find out how we want to be there for you</a>
+					<a href="#plans-for-2015" class="button button-big">Find out how we want to be there for you</a>
 				</footer>
 			</article>
 		</div>
@@ -95,7 +95,8 @@
 			<article id="find-us">
 				<header>
 					<h2>Find us at events world wide</h2>
-					<span>Make sure you come and say "Hi"</span>
+					<span>Make sure you come and say "Hi"</span><br/>
+                    <span>If you have a conference you would like to have phpwomen representatives attend, get in touch!</span>
 				</header>
 				<!-- Conferences -->
 				<div class="container">
@@ -107,85 +108,26 @@
 					<div class="row">
 						<div class="4u">
 							<article class="box box-style2">
-								<a href="http://conference.phpbenelux.eu/2014/" class="image image-full"><img src="holdingpage/images/conferences/2014/benelux.png" alt="" /></a>
-								<h3><a href="http://conference.phpbenelux.eu/2014/">PHPBenelux 2014</a></h3>
-								<p>
-									Antwerp, Belgium
-									<br />
-									24<sup>th</sup> &amp; 25<sup>th</sup> January, 2014
-								</p>
-							</article>
-						</div>
-						<div class="4u">
-							<article class="box box-style2">
-								<a href="http://2014.sunshinephp.com" class="image image-full"><img src="holdingpage/images/conferences/2014/sunshine.png" alt="" /></a>
-								<h3><a href="http://2014.sunshinephp.com">Sunshine PHP 2014</a></h3>
-								<p>
-									Miami, Florida, USA
-									<br />
-									6<sup>th</sup> - 8<sup>th</sup> February, 2014
-								</p>
-							</article>
-						</div>
-						<div class="4u">
-							<article class="box box-style2">
-								<a href="http://phpconference.co.uk" class="image image-full"><img src="holdingpage/images/conferences/2014/uk.png" alt="" /></a>
-								<h3><a href="http://phpconference.co.uk">PHPUK 2014</a></h3>
-								<p>
-									London, England
-									<br />
-									21<sup>st</sup> &amp; 22<sup>nd</sup> February, 2014
-								</p>
-							</article>
-						</div>
-					</div>
-					<div class="row">
-						<div class="4u">
-							<article class="box box-style2">
-								<a href="http://conference.phpne.org.uk/" class="image image-full"><img src="holdingpage/images/conferences/2014/phpne.png" alt="" /></a>
-								<h3><a href="http://conference.phpne.org.uk/">PHPNE 2014</a></h3>
-								<p>
-									Newcastle upon Tyne, UK
-									<br />
-									18<sup>th</sup> March, 2014
-								</p>
-							</article>
-						</div>
-						<div class="4u">
-							<article class="box box-style2">
-								<a href="http://tek.phparch.com" class="image image-full"><img src="holdingpage/images/conferences/2014/tek.png" alt="" /></a>
-								<h3><a href="http://tek.phparch.com">php[tek] 2014</a></h3>
-								<p>
-									Chicago, Illinois, USA
-									<br />
-									19<sup>th</sup> - 23<sup>rd</sup> May, 2014
-								</p>
-							</article>
-						</div>
-						<div class="4u">
-							<article class="box box-style2">
-								<a href="http://phpconference.nl" class="image image-full"><img src="holdingpage/images/conferences/2014/dpc.png" alt="Ducth PHP Conference" /></a>
-								<h3><a href="http://phpconference.nl">DPC 2014</a></h3>
-								<p>
-									Amsterdam, Netherlands
-									<br>
-									26<sup>th</sup> - 28<sup>th</sup> June, 2014
-								</p>
-							</article>
-						</div>
-					</div>
-					<div class="row">
-						<div class="4u">
-							<article class="box box-style2">
 								<a href="http://conference.phpnw.org.uk/phpnw14/" class="image image-full"><img src="holdingpage/images/conferences/2014/nw.png" alt="" /></a>
-								<h3><a href="http://conference.phpnw.org.uk/phpnw14/">PHPNW 2014</a></h3>
+								<h3><a href="http://conference.phpnw.org.uk/phpnw15/">PHPNW 2015</a></h3>
 								<p>
 									Manchester, UK
 									<br>
-									October, 2014
+									October, 2015
 								</p>
 							</article>
 						</div>
+                        <div class="4u">
+                            <article class="box box-style2">
+                                <a href="http://2015.phpsouthcoast.co.uk/" class="image image-full"><img src="holdingpage/images/conferences/2014/southcoastphp.png" alt="" /></a>
+                                <h3><a href="http://2015.phpsouthcoast.co.uk/">Southcoast PHP 2015</a></h3>
+                                <p>
+                                    Portsmouth, UK
+                                    <br>
+                                    July, 2015
+                                </p>
+                            </article>
+                        </div>
 					</div>
 					<!-- User Groups -->
 					<div class="usergroups">
@@ -245,7 +187,7 @@
 							</div>
 							<div class="3u">
 								<article class="box box-style2">
-									<a href="http://phpne.org.uk/" class="image image-full"><img src="holdingpage/images/usergroups/phpne.gif" alt="PHP North East" /></a>
+									<a href="http://phpne.org.uk/" class="image image-full"><img src="holdingpage/images/usergroups/phpne.png" alt="PHP North East" /></a>
 									<p>
 										Newcastle Upon Tyne, UK
 										<br>
@@ -309,12 +251,13 @@
 									<p>
 										Madison, WI, USA
 										<br>
+                                        4<sup>th</sup> Thursday / month
 									</p>
 								</article>
 							</div>
                             <div class="3u">
                                 <article class="box box-style2">
-                                    <a href="http://www.meetup.com/trianglephp/" class="image image-full"><img src="holdingpage/images/usergroups/trianglephp.png" alt="Triangle PHP" /></a>
+                                    <a href="http://www.meetup.com/trianglephp/" class="image image-full"><img src="holdingpage/images/usergroups/triangle_php.jpg" alt="Triangle PHP" /></a>
                                     <p>
                                         Raleigh, NC, USA
                                         <br>
@@ -332,11 +275,11 @@
 			</article>
 		</div>
 
-		<!-- Plans for 2014-->
+		<!-- Plans for 2015-->
 		<div class="wrapper wrapper-style2">
-			<article id="plans-for-2014">
+			<article id="plans-for-2015">
 				<header>
-					<h2>Plans for 2014</h2>
+					<h2>Plans for 2015</h2>
 					<span>To further support &amp; mentor women worldwide.</span>
 				</header>
 				<div class="container">
@@ -351,8 +294,8 @@
 						<div class="6u">
 							<section class="box box-style1 planbox">
 								<h3>The Website</h3>
-								<p>We've made the decision to build our website using Symfony Framework 2, making it easier for anyone to join the project. With new features planned, the site will help PHPWomen connect and collaborate with the community around the world.</p>
-								<p>See progress and get stuck in: <a href="https://github.com/erikaheidi/phpwomen">github</a></p>
+								<p>We've made the decision to build our website using Wordpress, making it easier for anyone to join the project. With new features planned, the site will help PHPWomen connect and collaborate with the community around the world.</p>
+								<p>See progress and get stuck in: <a href="https://github.com/phpwomen/wp-phpwomen">github</a></p>
 							</section>
 						</div>
 					</div>
@@ -361,7 +304,7 @@
 						<div class="6u">
 							<section class="box box-style1 planbox">
 								<h3>Education</h3>
-								<p>For 2014 we're looking to bring new education initiatives to the community.</p>
+								<p>For 2015 we're looking to bring new education initiatives to the community.</p>
 								<p>By standing on the shoulders of the amazing <a href="http://railsbridge.org">RailsBridge</a> efforts, we're working to bring our very own “PHPBridge” to fruition this year, starting with introductory material and moving on from there.</p>
 							</section>
 						</div>
@@ -376,7 +319,7 @@
 						<div class="6u">
 							<section class="box box-style1 planbox">
 								<h3>PHPWomen in the US</h3>
-								<p>We are excited to announce that starting in 2014, <a href="https://twitter.com/dshafik">Davey Shafik</a> will lead our US chapter, allowing PHPWomen to be more active globally.</p><p>Working together with the crew in Europe, he will be helping with our education and events initiatives.</p>
+								<p>We are excited to announce that starting in 2015, <a href="https://twitter.com/kayladnls">Kayla Daniels</a> will lead our US chapter, allowing PHPWomen to be more active globally.</p><p>Working together with the crew in Europe, she will be helping with our education and events initiatives.</p>
 							</section>
 						</div>
 						<div class="6u">
@@ -390,7 +333,7 @@
 					</div>
 				</div>
 				<footer>
-					<p>Together we can make 2014 a phenomenal year for PHPWomen.</p>
+					<p>Together we can make 2015 a phenomenal year for PHPWomen.</p>
 				</footer>
 			</article>
 		</div>

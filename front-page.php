@@ -304,8 +304,8 @@
 						<div class="6u">
 							<section class="box box-style1 planbox">
 								<h3>Education</h3>
-								<p>For 2015 we're looking to bring new education initiatives to the community.</p>
-								<p>By standing on the shoulders of the amazing <a href="http://railsbridge.org">RailsBridge</a> efforts, we're working to bring our very own “PHPBridge” to fruition this year, starting with introductory material and moving on from there.</p>
+								<h4>[ <a href="http://phpbridge.org/" target="_blank">PHP Bridge</a> ]</h4>
+								<p>By standing on the shoulders of the amazing <a href="http://railsbridge.org">RailsBridge</a> efforts, we've been working to bring our very own <a href="http://phpbridge.org/" target="_blank">“PHPBridge”</a> to fruition, starting with introductory material and moving on from there.</p>
 							</section>
 						</div>
 						<div class="6u">

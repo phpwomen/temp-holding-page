@@ -167,7 +167,7 @@
 							</div>
 							<div class="3u">
 								<article class="box box-style2">
-									<a href="http://phpem.info/" class="image image-full"><img src="holdingpage/images/usergroups/phpem.png" alt="PHP EM" /></a>
+									<a href="http://phpem.uk/" class="image image-full"><img src="holdingpage/images/usergroups/phpem_logo.png" alt="PHP EM" /></a>
 									<p>
 										Leicester, UK
 										<br>

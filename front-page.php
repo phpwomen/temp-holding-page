@@ -288,7 +288,7 @@
 							<section class="box box-style1 planbox">
 								<h3>Purple PHPWomen ElePHPants</h3>
 								<p>The purple ElePHPant has arrived! Get your PHPWomen ElePHPant from our store and  help support our mission to support women and others in the PHP community!</p>
-								<p><a href="http://shop.phpwomen.org/">http://shop.phpwomen.org/</a></p>
+								<p><a href="https://www.phparch.com/swag/phpwomen-plush-elephpant/">https://www.phparch.com/swag/phpwomen-plush-elephpant/</a></p>
 							</section>
 						</div>
 						<div class="6u">

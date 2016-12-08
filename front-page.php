@@ -167,6 +167,16 @@
 							</div>
 							<div class="3u">
 								<article class="box box-style2">
+									<a href="http://www.meetup.com/PHP-Leuven-Web-Innovation-Group/" class="image image-full"><img src="holdingpage/images/usergroups/phpleuven.png" alt="PHP Leuven" /></a>
+									<p>
+										Leuven, BE
+										<br>
+										Monthly
+									</p>
+								</article>
+							</div>
+							<div class="3u">
+								<article class="box box-style2">
 									<a href="http://phpem.uk/" class="image image-full"><img src="holdingpage/images/usergroups/phpem_logo.png" alt="PHP EM" /></a>
 									<p>
 										Leicester, UK

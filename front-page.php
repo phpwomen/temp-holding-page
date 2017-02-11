@@ -319,7 +319,7 @@
 						<div class="6u">
 							<section class="box box-style1 planbox">
 								<h3>PHPWomen in the US</h3>
-								<p>We are excited to announce that starting in 2015, <a href="https://twitter.com/kayladnls">Kayla Daniels</a> will lead our US chapter, allowing PHPWomen to be more active globally.</p><p>Working together with the crew in Europe, she will be helping with our education and events initiatives.</p>
+								<p>We are excited to announce that starting in 2015, <a href="https://twitter.com/greydnls">Graham Daniels</a> will lead our US chapter, allowing PHPWomen to be more active globally.</p><p>Working together with the crew in Europe, she will be helping with our education and events initiatives.</p>
 							</section>
 						</div>
 						<div class="6u">
